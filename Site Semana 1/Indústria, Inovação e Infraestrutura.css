@@ -1,0 +1,28 @@
+html,body {
+    margin: 0%;
+}
+#div1 {
+    background: url(img/CPU_Background.png) 10%;
+    height: 625px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h1 {
+    padding-top: 12%;
+    font-size: 70px;
+}
+#p1 {
+    font-size: 40px;
+    text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;
+}
+#a1 {
+    color: #ffffff;
+    font-size: 50;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    text-decoration: none;
+}
+a:hover {
+    background-color:rgba(255, 68, 0, 0.664);
+}
